@@ -33,7 +33,7 @@ Actual coder: **ChatGPT** (I don’t know a thing about syntax, I just yell at C
 - Chunk-based rendering and texture loading depending on zoom level  
 - Its own tiny engine with camera, caching, rendering, and map generation  
 - Poor optimization by design for that *authentic indie dev suffering* vibe  
-- Free to steal, fork, ruin, fix, commercialize, or turn into your own weird game<br>
+- Free to steal, fork, ruin, fix, commercialize, or turn into your own weird game
   (The rivers especially drive me insane)
 
 ---
@@ -64,7 +64,8 @@ Tiles are chosen from elevation + moisture + temperature + tectonics:
 
 - Water, Beach, River, Lake  
 - Grass, Forest, Hill, Mountain  
-- Desert, Jungle, Tundra, Snow, SnowHill, Swamp  
+- Desert, Jungle, Tundra, Snow, SnowHill, Swamp<br>
+  (The rivers especially drive me insane)
 
 Status:
 
