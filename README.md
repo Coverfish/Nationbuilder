@@ -137,7 +137,8 @@ Expect frame drops, stutters, and fans taking off at some zoom levels.
 - `M` – Moisture overlay  
 - `T` – Tectonic plate belts overlay  
 - `Esc` – Quit<br>  
-  (That's the third time ChatGPT told you the hotkeys btw, must think we are stupid (probably right about that as well lmao)
+  (That's the third time ChatGPT told us about the hotkeys btw.<br>
+   Must think we are stupid (probably right about that one as well lmao)
 ---
 
 ## Long-Term Dream (aka totally not scope creep)
