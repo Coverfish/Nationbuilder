@@ -1,6 +1,6 @@
 # Nation Builder Engine (working title)
 
-Procedural 2D world generator / scuffed custom engine that *might* one day turn into a real-time Hearts of Iron x Civ 6-style nation builder.
+Procedural 2D world generator / scuffed custom engine that *might* one day turn into a real-time Hearts of Iron 4, Civ 6-style nation builder.
 
 Right now, it mostly generates cursed planets, lets you zoom around them, and then your GPU cries. My house hasn't burned down (yet)
 
