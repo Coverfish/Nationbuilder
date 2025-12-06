@@ -47,7 +47,8 @@ Each run generates a new world using a big pile of noise and questionable math:
   - Multi-octave noise for terrain detail  
   - Low-frequency “continent” noise for big landmasses  
   - Radial falloff so edges tend to be ocean  
-- **Moisture map** with blended noise layers so forests aren’t just one big blob  
+- **Moisture map** with blended noise layers so forests aren’t just one big blob
+ (still are just one big blob, (dark green) lol that happens if you let AI create your readme based on the code comments XD) 
 - **Tectonic plates**:
   - Several plates with warped borders  
   - Plate boundaries get uplift → mountain belts  
