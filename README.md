@@ -5,7 +5,7 @@ Procedural 2D world generator / scuffed custom engine that *might* one day turn 
 Right now, it mostly generates cursed planets, lets you zoom around them, and then your GPU cries. My house hasn't burned down (yet)
 
 Author: **Coverfish**  
-Role: *Human supervisor / button-presser*  
+Role/Abilities: *Human supervisor / button-presser / Special moves: ctrl+c or ctrl+v*  
 Actual coder: **ChatGPT** (I don’t even really know what a variable is, I just yell at the AI)
 
 ---
