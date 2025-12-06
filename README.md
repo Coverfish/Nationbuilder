@@ -33,7 +33,7 @@ Actual coder: **ChatGPT** (I don’t know a thing about syntax, I just yell at C
 - Chunk-based rendering and texture loading depending on zoom level  
 - Its own tiny engine with camera, caching, rendering, and map generation  
 - Poor optimization by design for that *authentic indie dev suffering* vibe  
-- Free to steal, fork, ruin, fix, commercialize, or turn into your own weird game
+- Free to steal, fork, ruin, fix, commercialize, or turn into your own weird game<br>
   (The rivers especially drive me insane)
 
 ---
