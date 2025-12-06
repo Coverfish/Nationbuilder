@@ -6,7 +6,7 @@ Right now, it mostly generates cursed planets, lets you zoom around them, and th
 
 Author: **Coverfish**  
 Role/Abilities: *Human supervisor / button-presser / Special moves: ctrl+c or ctrl+v*  
-Actual coder: **ChatGPT** (I don’t know what a variable is, I just yell at the ChatGPT)
+Actual coder: **ChatGPT** (I don’t know a thing about syntax, I just yell at ChatGPT)
 
 ---
 
