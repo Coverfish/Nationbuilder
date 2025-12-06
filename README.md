@@ -12,8 +12,6 @@ Actual coder: **ChatGPT** (I don’t even really know what a variable is, I just
 
 ## Screenshots
 
-*(Drop 1.png–6.png into the repo root or adjust the paths below as needed.)*
-
 ![World overview 1](screenshots/1.png)
 ![World overview 2](screenshots/2.png)
 ![World overview 3](screenshots/3.png)
