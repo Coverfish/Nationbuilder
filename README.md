@@ -34,6 +34,7 @@ Actual coder: **ChatGPT** (I don’t know a thing about syntax, I just yell at C
 - Its own tiny engine with camera, caching, rendering, and map generation  
 - Poor optimization by design for that *authentic indie dev suffering* vibe  
 - Free to steal, fork, ruin, fix, commercialize, or turn into your own weird game
+  (The rivers especially drive me insane)
 
 ---
 
@@ -47,7 +48,7 @@ Each run generates a new world using a big pile of noise and questionable math:
   - Multi-octave noise for terrain detail  
   - Low-frequency “continent” noise for big landmasses  
   - Radial falloff so edges tend to be ocean  
-- **Moisture map** with blended noise layers so forests aren’t just one big blob
+- **Moisture map** with blended noise layers so forests aren’t just one big blob<br>
  (still are just one big blob, (dark green) lol that happens if you let AI create your readme based on the code comments XD) 
 - **Tectonic plates**:
   - Several plates with warped borders  
