@@ -2,7 +2,7 @@
 
 Procedural 2D world generator / scuffed custom engine that *might* one day turn into a real-time Hearts of Iron x Civ 6-style nation builder.
 
-Right now it mostly generates cursed planets, lets you zoom around them, and then your GPU cries.
+Right now, it mostly generates cursed planets, lets you zoom around them, and then your GPU cries. My house hasn't burned down (yet)
 
 Author: **Coverfish**  
 Role: *Human supervisor / button-presser*  
@@ -14,12 +14,14 @@ Actual coder: **ChatGPT** (I don’t even really know what a variable is, I just
 
 *(Drop 1.png–6.png into the repo root or adjust the paths below as needed.)*
 
-![World overview 1](1.png)
-![World overview 2](2.png)
-![World overview 3](3.png)
-![World overview 4](4.png)
-![World overview 5](5.png)
-![World overview 6](6.png)
+![World overview 1](screenshots/1.png)
+![World overview 2](screenshots/2.png)
+![World overview 3](screenshots/3.png)
+![World overview 4](screenshots/4.png)
+![World overview 5](screenshots/5.png)
+![World overview 6](screenshots/6.png)
+![World overview 5](screenshots/7.png)
+![World overview 6](screenshots/8.png)
 
 ---
 
@@ -209,7 +211,7 @@ Treat this as basically public domain / *“do whatever you want”* territory.
 ## Credits
 
 - **Coverfish** – Human supervisor, idea haver, button clicker  
-- **ChatGPT** – Code goblin that actually wrote the C++  
+- **ChatGPT** – Actually wrote the Code 
 - **SFML** – Rendering, windowing, input  
 
 If this somehow turns into a real game one day, nobody will be more surprised than me.
